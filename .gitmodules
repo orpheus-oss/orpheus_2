@@ -1,0 +1,3 @@
+[submodule "prompt"]
+	path = prompt
+	url = https://orpheus-oss.github.io/
